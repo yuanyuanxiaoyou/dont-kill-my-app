@@ -1,27 +1,27 @@
 ---
 manufacturer:
-    - general
+-一般
 ---
 
-### Android 6+
+###Android 6+
 
-Always check the following setting:
+经常检查以下设置：
 
-- on older devices:<br>
-_Phone settings > Battery & power saving > Battery usage > Ignore optimizations > Turn on_ to ignore battery optimization for your app.
+-在旧设备上：<溴>
+_手机设置>电池和省电>电池使用>忽略优化>打开_忽略应用程序的电池优化。
 
-- on newer devices:<br>
-_Settings > Apps > Your app > Battery > Optimize battery usage > All (from the top) > Your app_ (toggle to disable).
+-在新设备上：<溴>
+_设置>应用程序>您的应用程序>电池>优化电池使用>全部（从上到下）>您的应用程序_（切换到禁用）。
 
-### Android 8+
+###Android 8+
 
-Check if **Phone settings > Apps & Notifications > Your app > Background restrictions** or **Background limits** are not enabled for the app.
+检查如果**手机设置>应用程序和通知>您的应用程序>背景限制**或**背景限制**没有为应用程序启用。
 
-If all fails you can turn Doze mode off completely.
+如果一切失败，你可以完全关闭瞌睡模式。
 
-## Turn off doze on Android 6.0 and earlier
+##关闭Android6.0及更早版本的doze
 
-In **Settings > Developer options**. (If you don't know how to enable developer options, Google should help.)
+在**设置>开发人员选项**（如果你不知道如何启用开发人员选项，Google应该提供帮助。）
 
 ### Turn off doze on Android 7+
 
